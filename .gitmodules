@@ -1,0 +1,6 @@
+[submodule "lib/lbutils"]
+	path = lib/lbutils
+	url = https://github.com/dlove24/lbutils.git
+[submodule "lib/urest"]
+	path = lib/urest
+	url = https://github.com/dlove24/urest.git
